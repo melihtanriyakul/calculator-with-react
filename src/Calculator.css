@@ -1,0 +1,28 @@
+.mainDiv {
+    width: 280px;
+    margin-top: 100px;
+    border: 1px solid red;
+}
+
+button {
+    background-color: antiquewhite;
+    border: 1px red solid;
+    padding: 20px;
+    width: 70px;
+    height: 70px;
+    font-size: 20px;
+    font-family:"Century Gothic";
+}
+
+#resultDiv {
+    height: 45px;
+    padding:20px;
+    border: 1px red solid;
+    background-color:crimson;
+    font-size: 35px;
+}
+
+#clear {
+    width: 210px;
+    font-size: 20px;
+}
